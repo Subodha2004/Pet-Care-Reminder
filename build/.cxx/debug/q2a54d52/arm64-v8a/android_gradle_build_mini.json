@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/subodhasandawaruni/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/subodhasandawaruni/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/subodhasandawaruni/AndroidStudioProjects/pet_care_reminder/build/.cxx/debug/q2a54d52/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/subodhasandawaruni/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/subodhasandawaruni/AndroidStudioProjects/pet_care_reminder/build/.cxx/debug/q2a54d52/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
