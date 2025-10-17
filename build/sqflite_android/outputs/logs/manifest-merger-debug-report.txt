@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml:1:1-53
+INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml:1:1-53
+	package
+		ADDED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml:1:11-41
+		INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/subodhasandawaruni/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/android/src/main/AndroidManifest.xml
