@@ -1,0 +1,1 @@
+/Users/subodhasandawaruni/AndroidStudioProjects/pet_care_reminder/build/app/intermediates/cxx/debug/q2a54d52/obj/arm64-v8a
